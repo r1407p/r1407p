@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chia-You Tseng</h1>
 <h3 align="center">A passionate computer science student from Taiwan.</h3>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1407p&show_icons=true&theme=vue-dark&layout=compact" alt="r1407p" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=r1407p&show_icons=true&theme=vue-dark" alt="r1407p" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chia-you tseng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chia-you tseng" height="30" width="40" /></a>
