@@ -9,7 +9,7 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/chia-you tseng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chia-you tseng" height="30" width="40" /></a>
-<a href="https://medium.com/r1407p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="r1407p" height="30" width="40" /></a>
+<a href="https://medium.com/@buszter0403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="r1407p" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/r1407p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="r1407p" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/buszter0403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="buszter0403" height="30" width="40" /></a>
 </p>
