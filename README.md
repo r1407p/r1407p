@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chia-You Tseng</h1>
+<h1 align="center">Hi 👋, I'm Chia-Yu Tseng</h1>
 <h3 align="center">A passionate computer science student from Taiwan.</h3>
 
 <p><img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=r1407p&show_icons=true&theme=vue-dark&layout=compact" alt="r1407p" /></p>
